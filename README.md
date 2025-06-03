@@ -1,3 +1,30 @@
+#netflix-Gpt
+
+-create react app
+-configured tailwind-css
+-Header
+-Login form
+-Signup form
+-formik site for form
+
+#features
+-Login/Sign up Form
+-Redirect to Browse Page
+-Browse(after authentication)
+     -Header
+     -Main Movie
+         -Tailor in background
+         Title and Description
+         -Movie Suggestions
+         -MovieLists *N
+NetflixGPT
+     -Search Bar
+     -Movie Suggetsions
+
+npm i -D react-router-dom
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
