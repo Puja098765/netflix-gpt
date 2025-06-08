@@ -6,6 +6,8 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
+  // everything or lot of things is happing 2 times  in our local  project only like api call,event hover,.. because of strictmode and react does extra rendring  of our  components to check some  inconsistency between yours calls only happens in devlopment mode
+  // but if we build for production it will not happen twice
   <React.StrictMode>
     <App />
   </React.StrictMode>
