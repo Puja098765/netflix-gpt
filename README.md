@@ -1,37 +1,38 @@
 #netflix-Gpt
 
--create react app
--configured tailwind-css
--Header
--Routing of App
--Login form
--Signup form
--formik site for form
--Form Validation
--useRefHook
--for auhtentication--- need backend-- using google firebase(firebase.google.com)--backend as a service
--firebase setup
--Deploying our app to production
--create signUp  userAccount in firebase
--Implement Sign In user Api
+- create react app
+- configured tailwind-css
+- Header
+- Routing of App
+- Login form
+- Signup form
+- formik site for form
+- Form Validation
+- useRefHook
+- for auhtentication--- need backend-- using google firebase(firebase.google.com)--backend as a service
+- firebase setup
+- Deploying our app to production
+- create signUp  userAccount in firebase
+- Implement Sign In user Api
 -Created Redux Store with userSlice
--Implemented Sign out
--update Profile
--Fetch from TMDB(the movie database)
--Bug Fix : Sign up user displayName and profile picture update
--Bug Fix : if user is not logged in Redirect /browse to Login Page and vice versa
--unsubscribe to the onAuthStateChanged callback
--add hardcoded values to the constants file
--Register TMDB API and create an app and get access token
--Get Data from TMDB now playing movies list API
--Custom Hook for now playing Movies
--Create movieSlice
--Update Store with  Trailer movie data
--Planning for MainContainer and secondary container
--Fetch Data for Trailer Video
+- Implemented Sign out
+- update Profile
+- Fetch from TMDB(the movie database)
+- Bug Fix : Sign up user displayName and profile picture update
+- Bug Fix : if user is not logged in Redirect /browse to Login Page and vice versa
+- unsubscribe to the onAuthStateChanged callback
+- add hardcoded values to the constants file
+- Register TMDB API and create an app and get access token
+- Get Data from TMDB now playing movies list API
+- Custom Hook for now playing Movies
+- Create movieSlice
+- Update Store with  Trailer movie data
+- Planning for MainContainer and secondary container
+- Fetch Data for Trailer Video
 - Update Store with Trailer Video Data
--Embedded the utube video and make it autoplay and mute
--Tailwind classes to make Main Container look awesome
+- Embedded the utube video and make it autoplay and mute
+- Tailwind classes to make Main Container look awesome
+- Build Secondary Components
 
 
 
